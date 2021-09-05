@@ -1,4 +1,4 @@
-# Bot pentru instagram cu Mircea
+# Bot pentru instagram cu Mircea Test commit form brosers
 import random
 from time import sleep
 from selenium import webdriver
